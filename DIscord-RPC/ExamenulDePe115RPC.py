@@ -1,7 +1,7 @@
 from pypresence import Presence
 import time
 
-client_id = "1116338529509842944"
+client_id = ""
 
 RPC = Presence(client_id)
 
